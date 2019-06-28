@@ -22,13 +22,13 @@ The flow is as follows:
 
 5.    Once all fields have been completed and are valid, display a ‘Next’ button somewhere on the page. This button should navigate the user to a ‘products’ page displaying all of the products relevant to the user’s search term.
 
-6.    The search term will search against the following fields in the provided products.json file:
-  - name
-  - brand
-  - category
-  - kind
-  - kind_subtype
-  - description
+6.    The search term will search against the following fields in the provided `products.json` file:
+  - `name`
+  - `brand`
+  - `category`
+  - `kind`
+  - `kind_subtype`
+  - `description`
   
 
 ### Products Page
@@ -37,10 +37,10 @@ The flow is as follows:
 
 8.    Each product card should include the following information. 
 
-  - name
-  - brand
-  - category
-  - kind_subtype (if not available, display kind)
+  - `name`
+  - `brand`
+  - `category`
+  - `kind_subtype` (if not available, display `kind`)
   - Photo
   
 9.    In certain cases, some of the fields aren’t available. In those cases, simply ignore the missing fields. However, if the product **_photo_** is missing, please use this default image: https://s3-us-west-1.amazonaws.com/iheartjane/images/stock_photos/general/indica.png
