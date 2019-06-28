@@ -67,10 +67,10 @@ The flow is as follows:
     
 2.    Products Page
   - Grid of product cards, each with the following information:
-    - Name                                          
-    - Brand                                          
-    - Category                                       
-    - Kind_subtype                                    
+    - `name`                                          
+    - `brand`                                          
+    - `category`                                       
+    - `kind_subtype`                                    
     - Photo (use default photo when one is not available)                                        
     - ‘Add to Cart’ button (non-functional)
   - Search field with a button to allow the user to perform additional searches
@@ -81,7 +81,7 @@ The flow is as follows:
 
 1.    We use React, and we’d love to see you use it too.
 
-2.    The products to search and display are contained in the provided products.json file.
+2.    The products to search and display are contained in the provided `products.json` file.
 
 3.    We appreciate beautiful design and execution.
 
