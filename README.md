@@ -83,7 +83,7 @@ The flow is as follows:
 
 2.    The products to search and display are contained in the provided `products.json` file.
 
-3.    We appreciate beautiful design and execution.
+3.    We appreciate beautiful and readable code.
 
 4.    Your design should be mobile friendly (i.e. responsive).
 
