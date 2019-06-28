@@ -89,4 +89,4 @@ The flow is as follows:
 
 5.    Bonus points if you deploy the project to a live environment.
 
-6.    When you're done, submit all code and files (and if deployed live, the URL).
+6.    When you're done, submit all code and files to github and send us the link (and if deployed live, the URL).
