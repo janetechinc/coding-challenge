@@ -79,7 +79,7 @@ The flow is as follows:
  
 ### Notes and instructions
 
-1.    We use React and Typescript, and we'd love to see you use it too.
+1.    We use React and Typescript, and we'd love to see you use them too.
 
 2.    The products to search and display are contained in the provided `products.json` file.
 
