@@ -1,9 +1,9 @@
 # Jane - Coding Challenge
 
 
-Your job is to build a small cannabis marketplace that allows users to find products based on a search term. The instructions below capture all the expectations regarding the project. Everything that isn’t explicitly specified is up to you to decide; use your best judgement.
+Your job is to build a small cannabis marketplace that allows users to find products based on a search term. The scope is limited so you can focus on building an app that could be deployed tomorrow in a real production environment. The instructions below capture all the product requirements. Everything that isn’t explicitly specified is up to you to decide; use your best judgement.
 
-If you have any questions, feel free to contact your sponsor at Jane. Good luck!
+If you have any questions, feel free to contact your sponsor at Jane. Good luck and have fun!
 ____________________________________________________________________________
 
 The app is split into two separate pages: 'Data Collection' and 'Products'.
@@ -72,14 +72,14 @@ The flow is as follows:
     - `category`                                       
     - `kind_subtype`                                    
     - `photo` (use default photo when one is not available)                                        
-    - ‘Add to Cart’ button (non-functional)
+    - 'Add to Cart' button (non-functional)
   - Search field with a button to allow the user to perform additional searches
   - User's address
 
  
 ### Notes and instructions
 
-1.    We use React, and we'd love to see you use it too.
+1.    We use React and Typescript, and we'd love to see you use it too.
 
 2.    The products to search and display are contained in the provided `products.json` file.
 
